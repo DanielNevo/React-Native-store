@@ -4,7 +4,7 @@
 
 ### in the phone
 - screen 1
-<img height="400px" src="1.jpeg">
+<img height="400px" src="Screenshot_20220216-204257.jpg">
 
 - screen 2
 <img height="400px" src="2.jpeg">

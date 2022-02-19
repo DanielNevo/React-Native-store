@@ -4,40 +4,27 @@
 
 ### in the phone
 - screen 1
-<img height="400px" src="Screenshot_20220216-204257.jpg">
+<img height="400px" src="picture/Screenshot_20220216-204257.jpg">
 
 - screen 2
-<img height="400px" src="2.jpeg">
+<img height="400px" src="picture/Screenshot_20220216-204415.jpg">
 
 - screen 3
-<img height="400px" src="3.jpeg">
+<img height="400px" src="picture/Screenshot_20220216-204436.jpg">
 
 - screen 4
-<img height="400px" src="4.jpeg">
+<img height="400px" src="picture/Screenshot_20220216-204457.jpg">
 
 - screen 5
-<img height="400px" src="5.jpeg">
+<img height="400px" src="picture/Screenshot_20220216-204546.jpg">
 
 - screen 6
-<img height="400px" src="6.jpeg">
+<img height="400px" src="picture/Screenshot_20220217-142002.jpg">
+
+- screen 7
+<img height="400px" src="picture/Screenshot_20220217-142014.jpg">
+
+- screen 8
+<img height="400px" src="picture/Screenshot_20220217-143057.jpg">
 
 
-### in the browser
-
-- screen 1
-<img height="400px" src="7.png">
-
-- screen 2
-<img height="400px" src="8.png">
-
-- screen 3
-<img height="400px" src="9.png">
-
-- screen 4
-<img height="400px" src="10.png">
-
-- screen 5
-<img height="400px" src="11.png">
-
-- screen 6
-<img height="400px" src="12.png">
